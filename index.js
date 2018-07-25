@@ -1,2 +1,4 @@
 // Write your solution in this file!
-var driver = "driver"
+var  = { 
+driver: "driver"
+} 
