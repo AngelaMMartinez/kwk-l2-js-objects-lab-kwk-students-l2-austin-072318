@@ -1,2 +1,4 @@
 // Write your solution in this file!
-var driver = {key:value}
+function defineDriver() {
+  driver = 
+}
